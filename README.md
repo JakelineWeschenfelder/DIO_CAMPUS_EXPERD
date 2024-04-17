@@ -1,5 +1,8 @@
 # DIO_CAMPUS_EXPERD
 
+
+# DICAS DE PORTFÓLIO
+
 Crie um repositório dedicado : Comece a criar um repositório dedicado no GitHub para seu portfólio. Escolha um nome que tenha algo com o conteúdo que você irá colocar.
 
 README.md atrativos : O readme é o corpo e a identidade visual do seu portfólio, pois sempre que alguém o abrir, será a primeira impressão, logo quanto mais detalhado, com explicação clara e organizada, melhor.
